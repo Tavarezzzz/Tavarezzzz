@@ -34,4 +34,4 @@ My name is Leandro Simon Gondim Tavarez, I am 19 years old and based in Olinda, 
 - Version control (git/github)
 
 ## 🔗 Linkedin  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-simon-378780350/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-tavarez-378780350/?locale=pt_BR&success=true) 
