@@ -3,7 +3,7 @@
 #### _Data Scientist_
 -----------
 
-My name is Leandro Simon Gondim Tavarez, I am 19 years old and based in Olinda, PE. I am currently a Data Science student at CESAR School. Throughout my degree, I have been deeply dedicated to developing academic projects and solving data-driven problems. This technical immersion has increasingly fueled my passion for the field and built a solid foundation for my future career.
+My name is Leandro Simon, I am 19 years old and based in Olinda, PE. I am currently a Data Science student at CESAR School. Throughout my degree, I have been deeply dedicated to developing academic projects and solving data-driven problems. This technical immersion has increasingly fueled my passion for the field and built a solid foundation for my future career.
 
 ## 💻 Libraries and tools used
 
