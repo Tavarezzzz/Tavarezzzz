@@ -11,9 +11,8 @@
 I am a Data Science and AI student deeply passionate about the intersection of data infrastructure and artificial intelligence. My focus is on orchestrating scalable data pipelines and preparing enterprise data for integration with LLMs and advanced analytics.
 
 - 🔭 I’m currently working on **DataInsight v2.0** and **ELT Pipelines (Airflow & Docker)**
-- 🌱 I’m currently diving deep into **RAG, LangGraph, and Cloud Architectures (AWS)**
-- 🎓 Studying Data Science & AI at **CESAR School** (Expected 2027)
-- 💬 Ask me about **Python, DuckDB, Medallion Architecture, and Data Scraping**
+- 🌱 I’m currently diving deep into **Machine Learning, Deep Learning, RAG, LangGraph, and Cloud Architectures (AWS)**
+- 🎓 Studying Data Science & AI
 - 📫 Reach me out via [LinkedIn](https://www.linkedin.com/in/leandro-tavarez-378780350/)
 
 ### 🛠️ Tech Stack
@@ -32,7 +31,7 @@ I am a Data Science and AI student deeply passionate about the intersection of d
 * 📊 **[MC Sonae Data Integration](https://github.com/Tavarezzzz/case_mcsonae)**: Automated Python web scraper and data standardization system for a multinational conglomerate.
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/Tavarezzzz)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/Tavarezzzz)
