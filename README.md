@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Engineer | Crafting Scalable Pipelines & Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+CESAR+School;Building+ETL%2FELT+Pipelines;Integrating+GenAI+%26+LLMs;Based+in+Olinda%2C+PE+%7C+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+CESAR+School;Building+ETL%2FELT+Pipelines;Integrating+GenAI+%26+LLMs;Based+in+Recife%2C+PE+%7C+Brazil" alt="Typing SVG" />
 </p>
 
 ---
