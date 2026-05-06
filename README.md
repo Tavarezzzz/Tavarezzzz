@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Engineer | Crafting Scalable Pipelines & Intelligent Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=336791&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+CESAR+School;Building+ETL%2FELT+Pipelines;Integrating+GenAI+%26+LLMs;Based+in+Recife%2C+PE+%7C+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+CESAR+School;Building+ETL%2FELT+Pipelines;Integrating+GenAI+%26+LLMs;Based+in+Recife%2C+PE+%7C+Brazil" alt="Typing SVG" />
 </p>
 
 ---
@@ -18,13 +18,13 @@ I am a Data Science and AI student deeply passionate about the intersection of d
 ### 🛠️ Tech Stack
 
 **Data Engineering & Cloud**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=9D00FF) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1A1A1A?style=for-the-badge&logo=Apache%20Airflow&logoColor=9D00FF) ![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=9D00FF) ![DuckDB](https://img.shields.io/badge/DuckDB-1A1A1A?style=for-the-badge&logo=duckdb&logoColor=9D00FF) ![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=9D00FF)
 
 **AI & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Llama](https://img.shields.io/badge/Llama_3-0400E5?style=for-the-badge&logo=meta&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=9D00FF) ![Llama](https://img.shields.io/badge/Llama_3-1A1A1A?style=for-the-badge&logo=meta&logoColor=9D00FF) ![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=9D00FF) ![Streamlit](https://img.shields.io/badge/Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=9D00FF) 
 
 **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=9D00FF) ![Power BI](https://img.shields.io/badge/Power%20BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=9D00FF) ![Excel](https://img.shields.io/badge/Excel-1A1A1A?style=for-the-badge&logo=microsoftexcel&logoColor=9D00FF)
 
 ### 🚀 Featured Projects
 * 🚖 **[Uber & Lyft Analytics Pipeline](https://github.com/Tavarezzzz/boston-rides-elt-project)**: End-to-end ELT pipeline using Apache Airflow, Docker, and DuckDB following the Medallion Architecture.
@@ -36,7 +36,7 @@ I am a Data Science and AI student deeply passionate about the intersection of d
 Remova estas setas de comentário quando ele voltar a funcionar.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9D00FF&text_color=8b949e&icon_color=9D00FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=9D00FF&text_color=8b949e" alt="Top Languages" width="48%" />
 </p>
 -->
