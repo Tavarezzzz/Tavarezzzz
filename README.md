@@ -31,7 +31,12 @@ I am a Data Science and AI student deeply passionate about the intersection of d
 * 📊 **[MC Sonae Data Integration](https://github.com/Tavarezzzz/case_mcsonae)**: Automated Python web scraper and data standardization system for a multinational conglomerate.
 
 ### 📈 GitHub Stats
+
+<!-- O servidor do github-readme-stats está temporariamente fora do ar. 
+Remova estas setas de comentário quando ele voltar a funcionar.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
+-->
