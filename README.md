@@ -14,14 +14,13 @@
     <td width="60%" valign="middle">
       <p>I am a Data Science and AI student deeply passionate about the intersection of data infrastructure and artificial intelligence. My focus is on orchestrating scalable data pipelines and preparing enterprise data for integration with LLMs and advanced analytics.</p>
       <ul>
-        <li>🔭 I’m currently working on <b>DataInsight v2.0</b> and <b>ELT Pipelines (Airflow & Docker)</b></li>
         <li>🌱 I’m currently diving deep into <b>Machine Learning, Deep Learning, RAG, LangGraph, and Cloud Architectures (AWS)</b></li>
         <li>🎓 Studying Data Science & AI</li>
         <li>📫 Reach me out via <a href="https://www.linkedin.com/in/leandro-tavarez-378780350/">LinkedIn</a></li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="cruz.gif" alt="Cruz GIF" width="200px" />
+      <img src="cruz.gif" alt="Cruz GIF" width="450px" />
     </td>
   </tr>
 </table>
@@ -29,7 +28,7 @@
 ### 🛠️ Tech Stack
 
 **Data Engineering & Cloud**
-![Docker](https://img.shields.io/badge/docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1A1A1A?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF) ![DuckDB](https://img.shields.io/badge/DuckDB-1A1A1A?style=for-the-badge&logo=duckdb&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1A1A1A?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![DuckDB](https://img.shields.io/badge/DuckDB-1A1A1A?style=for-the-badge&logo=duckdb&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
 **AI & Data Science**
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Llama](https://img.shields.io/badge/Llama_3-1A1A1A?style=for-the-badge&logo=meta&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=FFFFFF) 
