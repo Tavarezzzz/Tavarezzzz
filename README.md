@@ -46,4 +46,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8b949e&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8b949e" alt="Top Languages" width="48%" />
 </p>
--->
+
