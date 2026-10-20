@@ -1,49 +1,108 @@
-<h1 align="center">Hi there, I'm Leandro Tavarez!</h1>
-<h3 align="center">Data Scientist & AI Engineer | Crafting Scalable Pipelines & Intelligent Systems</h3>
+ <h1 align="center">LEANDRO TAVAREZ</h1>
+<h3 align="center">Data Engineering & AI | Building Scalable Data Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Data+Science+Student+%40+CESAR+School;Building+ETL%2FELT+Pipelines;Integrating+GenAI+%26+LLMs;Based+in+Recife%2C+PE+%7C+Brazil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=600&lines=Engineering+Reliable+Data+Pipelines;Exploring+AI+%26+LLM+Applications;Turning+Data+Into+Useful+Systems;Based+in+Recife%2C+Brazil" alt="Animated introduction" />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandro-tavarez-378780350/">
+    💼 LinkedIn
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Tavarezzzz">
+    🐙 GitHub
+  </a>
+  &nbsp;·&nbsp;
+  <a href="mailto:leandro.tavarez@gmail.com">
+    ✉️ E-mail
+  </a>
+</p>
+
+
+---
+
+## ABOUT
+
+I build data-driven projects at the intersection of **Data Engineering, Analytics, and Artificial Intelligence**.
+
+My focus is on structuring reliable data pipelines, transforming raw data into useful information, and exploring intelligent applications powered by modern AI tools.
+
+- **Currently studying:** Data Science & Artificial Intelligence at CESAR School.
+- **Data Engineering:** ETL/ELT, SQL, data transformation, and Medallion Architecture.
+- **AI & GenAI:** Machine Learning, LLMs, RAG, and natural-language interfaces.
+- **Infrastructure:** Docker, AWS, Linux, and workflow automation.
+
+---
+
+## TECHNOLOGY STACK
+
+**DATA ENGINEERING & CLOUD**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-111111?style=flat-square&logo=apacheairflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-111111?style=flat-square&logo=duckdb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-111111?style=flat-square&logo=GoogleCloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white)
+
+**AI, MACHINE LEARNING & ANALYTICS**
+
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-111111?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square&logo=powerbi&logoColor=white)
+
+**TOOLS & WORKFLOW**
+
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-111111?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-111111?style=flat-square&logo=Power&BI&logoColor=white)
+
+---
+
+## SELECTED PROJECTS
+
+### 01 — Boston Rides | ELT & Data Engineering
+
+An end-to-end data project focused on organizing mobility data into analytical layers and exploring natural-language access to structured data.
+
+**Stack:** Python · SQL · DuckDB · Medallion Architecture · LLMs
+
+[Explore repository →](https://github.com/Tavarezzzz/boston-rides-elt-project)
+
+### 02 — Nexus Data | Health Data & Analytics
+
+A data platform concept focused on health equity analysis, data quality, indicators, and analytical prioritization.
+
+**Stack:** Python · DuckDB · Streamlit · Machine Learning
+
+[Explore repository →](https://github.com/Tavarezzzz/Nexus_Data)
+
+### 03 — DataInsight | Interactive Analytics
+
+An interactive application for exploring tabular data and presenting insights through dashboards and visualizations.
+
+**Stack:** Python · Pandas · Streamlit · Plotly
+
+[Explore repository →](https://github.com/Tavarezzzz/Datainsight-v2)
+
+---
+
+## GITHUB ACTIVITY
+
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=B8B8B8&icon_color=FFFFFF&include_all_commits=true" alt="GitHub statistics" />
+  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=B8B8B8" alt="Most used languages" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-<table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="middle">
-      <p>I am a Data Science and AI student deeply passionate about the intersection of data infrastructure and artificial intelligence. My focus is on orchestrating scalable data pipelines and preparing enterprise data for integration with LLMs and advanced analytics.</p>
-      <ul>
-        <li>🌱 I’m currently diving deep into <b>Machine Learning, Deep Learning, RAG, LangGraph, and Cloud Architectures (AWS)</b></li>
-        <li>🎓 Studying Data Science & AI</li>
-        <li>📫 Reach me out via <a href="https://www.linkedin.com/in/leandro-tavarez-378780350/">LinkedIn</a></li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="cruz.gif" alt="Cruz GIF" width="450px" />
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Tech Stack
-
-**Data Engineering & Cloud**
-![Docker](https://img.shields.io/badge/docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-1A1A1A?style=for-the-badge&logo=Apache%20Airflow&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/AWS-1A1A1A?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![DuckDB](https://img.shields.io/badge/DuckDB-1A1A1A?style=for-the-badge&logo=duckdb&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FFFFFF)
-
-**AI & Data Science**
-![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FFFFFF) ![Llama](https://img.shields.io/badge/Llama_3-1A1A1A?style=for-the-badge&logo=meta&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=FFFFFF) ![Streamlit](https://img.shields.io/badge/Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=FFFFFF) 
-
-**Tools & Others**
-![Git](https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FFFFFF) ![Power BI](https://img.shields.io/badge/Power%20BI-1A1A1A?style=for-the-badge&logo=powerbi&logoColor=FFFFFF) ![Excel](https://img.shields.io/badge/Excel-1A1A1A?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF)
-
-### 🚀 Featured Projects
-* 🚖 **[Uber & Lyft Analytics Pipeline](https://github.com/Tavarezzzz/boston-rides-elt-project)**: End-to-end ELT pipeline using Apache Airflow, Docker, and DuckDB following the Medallion Architecture.
-* 📊 **[MC Sonae Data Integration](https://github.com/Tavarezzzz/case_mcsonae)**: Automated Python web scraper and data standardization system for a multinational conglomerate.
-
-### 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tavarezzzz&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8b949e&icon_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tavarezzzz&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8b949e" alt="Top Languages" width="48%" />
+  <sub>DATA · SYSTEMS · INTELLIGENCE</sub><br/>
+  <sub>Building, learning, and iterating.</sub>
 </p>
-
