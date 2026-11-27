@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="banner.png" alt="Leandro Tavarez — Data Engineering & AI" width="100%" />
+<img src="banner.gif" alt="Leandro Tavarez — Data Engineering & AI" width="100%" />
 
-<br/>
+</div>
 
 <a href="https://www.linkedin.com/in/leandro-tavarez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F1B33?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
 &nbsp;
